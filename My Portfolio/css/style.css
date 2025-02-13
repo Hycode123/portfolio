@@ -133,6 +133,7 @@ nav ul a:hover{
 }
 .Works{
     margin-top: 16px;
+    transition: 0.3s;
 }
 .Works a{
     text-decoration: none;
